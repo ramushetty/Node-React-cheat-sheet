@@ -12,3 +12,10 @@ $ node --version
 $ npm --version
 ```
 if you are able to see versions then installation success
+
+# Developer tools
+shortcut
+```
+ctrl + shift + J
+Ctl+Shift+I - to open console
+```
